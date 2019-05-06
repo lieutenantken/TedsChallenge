@@ -1,0 +1,15 @@
+c:\users\andy.case\documents\visual studio 2015\Projects\TedsChallenge\TedsChallenge\bin\Debug\TedsChallenge.dll
+c:\users\andy.case\documents\visual studio 2015\Projects\TedsChallenge\TedsChallenge\bin\Debug\TedsChallenge.pdb
+c:\users\andy.case\documents\visual studio 2015\Projects\TedsChallenge\TedsChallenge\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\andy.case\documents\visual studio 2015\Projects\TedsChallenge\TedsChallenge\bin\Debug\WebDriver.dll
+c:\users\andy.case\documents\visual studio 2015\Projects\TedsChallenge\TedsChallenge\bin\Debug\WebDriver.xml
+c:\users\andy.case\documents\visual studio 2015\Projects\TedsChallenge\TedsChallenge\obj\Debug\TedsChallenge.csprojResolveAssemblyReference.cache
+c:\users\andy.case\documents\visual studio 2015\Projects\TedsChallenge\TedsChallenge\obj\Debug\TedsChallenge.dll
+c:\users\andy.case\documents\visual studio 2015\Projects\TedsChallenge\TedsChallenge\obj\Debug\TedsChallenge.pdb
+C:\Selenium\teds-challenge-maste\teds-challenge-master\TedsChallenge\bin\Debug\GenericTest1.GenericTest
+C:\Selenium\teds-challenge-maste\teds-challenge-master\TedsChallenge\bin\Debug\TedsChallenge.dll
+C:\Selenium\teds-challenge-maste\teds-challenge-master\TedsChallenge\bin\Debug\TedsChallenge.pdb
+C:\Selenium\teds-challenge-maste\teds-challenge-master\TedsChallenge\bin\Debug\WebDriver.dll
+C:\Selenium\teds-challenge-maste\teds-challenge-master\TedsChallenge\bin\Debug\WebDriver.xml
+C:\Selenium\teds-challenge-maste\teds-challenge-master\TedsChallenge\obj\Debug\TedsChallenge.dll
+C:\Selenium\teds-challenge-maste\teds-challenge-master\TedsChallenge\obj\Debug\TedsChallenge.pdb
